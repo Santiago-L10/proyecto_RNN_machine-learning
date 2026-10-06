@@ -1,0 +1,15 @@
+# Entornos virtuales
+env/
+env2/
+venv/
+.venv/
+
+# Cachés de Python y Streamlit
+__pycache__/
+*.py[cod]
+.streamlit/
+.ipynb_checkpoints/
+
+# Archivos de sistema operativo
+Thumbs.db
+.DS_Store
